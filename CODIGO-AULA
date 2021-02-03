@@ -57,25 +57,25 @@ void loop() {
   if (sensor == 0){
     mqttClient.connect("Hugoramoz");
     
-    mensagem = mqttClient.publish("Hugoramoz-t","FECHADO!");
+   mensagem = mqttClient.publish("Hugoramoz-t", "FECHADA!");
     
     Serial.println(mensagem);
     
     Serial.println("O rack esta FECHADO!");
-    delay(500);
+    
     
   }
   if(sensor == 1){
     mqttClient.connect("Hugoramoz");
     
-    mensagem = mqttClient.publish("Hugoramoz-t","ABERTA!");
+    mensagem = mqttClient.publish("Hugoramoz-t", "ABERTA!");
     
     Serial.println(mensagem);
     
     Serial.println("O rack esta ABERTO!");
     
     mqttClient.loop();
-    delay(500);
+    
     }
     
 }
