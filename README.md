@@ -29,5 +29,4 @@ PubSubClient (cliente MQTT para o Arduino)
 
 
 
-
-![circuito dois](  https://github.com/Hugo123br/SPRINT-8-Sensor-Magnetico/blob/main/segunda%20imagem.png)
+![image](https://user-images.githubusercontent.com/78046279/155854992-1b9b342d-86a5-45e4-8b9d-192a75521daa.png)
