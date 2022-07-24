@@ -43,7 +43,7 @@ void setup() {
     Serial.print("O Gateway do Arduino e: ");
     Serial.println(Ethernet.gatewayIP());
 
-    //Exibe uma linha em branco
+    //Exibe uma linha em Branco
     Serial.println("");
     
     
