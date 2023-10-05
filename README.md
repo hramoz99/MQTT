@@ -11,7 +11,7 @@ O objetivo desse projeto é utilizar um Arduino Uno junto com um Sensor Magnéti
 
 - UIPEthernet (conexão do ENC28J60 com o Arduino)
 
-- PubSubClient (cliente MQTT para o Arduino)
+- PubSubClient (cliente MQTT para o Arduíno)
 
 ## Materiais 
 
