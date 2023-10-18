@@ -31,7 +31,7 @@ void setup() {
 
     mqttClient.setServer("54.144.190.205",1883);
 
-    //Exibe no Monitor Serial as informações sobre o IP do Arduino
+    //Exibe no Monitor Serial as informações sobre o IP do Arduino Uno
     Serial.print("O IP do Arduino e: ");
     Serial.println(Ethernet.localIP());
 
