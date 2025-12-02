@@ -7,7 +7,7 @@ O objetivo desse projeto é utilizar um Arduino Uno junto com um Sensor Magnéti
 
 ![image](https://user-images.githubusercontent.com/78046279/155855003-e497d1fa-2cc5-4277-ba42-28cf687bbc46.png)
 
-## Bibliotecas utilizadas 🧮
+## Bibliotecas Utilizadas 🧮
 
 - UIPEthernet (conexão do ENC28J60 com o Arduino)
 
